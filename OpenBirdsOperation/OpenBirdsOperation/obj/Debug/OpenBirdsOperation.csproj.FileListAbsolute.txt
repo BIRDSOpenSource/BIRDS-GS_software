@@ -1,0 +1,13 @@
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\bin\Debug\Open Birds Operation.exe.config
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\bin\Debug\Open Birds Operation.exe
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\bin\Debug\Open Birds Operation.pdb
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\bin\Debug\One_Sgp4.dll
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\OpenBirdsOperation.csprojAssemblyReference.cache
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\OpenBirdsOperation.commandList.resources
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\OpenBirdsOperation.operationMain.resources
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\OpenBirdsOperation.Properties.Resources.resources
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\OpenBirdsOperation.csproj.GenerateResource.cache
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\OpenBirdsOperation.csproj.CoreCompileInputs.cache
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\OpenBirdsOperation.csproj.CopyComplete
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\Open Birds Operation.exe
+C:\Users\daisukenakayama\source\repos\OpenBirdsOperation\OpenBirdsOperation\obj\Debug\Open Birds Operation.pdb
